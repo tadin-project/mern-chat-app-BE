@@ -1,0 +1,11 @@
+# NPM
+node_modules
+
+# Logs
+logs
+
+# Environment Variabel
+.env
+
+# build js
+/build
